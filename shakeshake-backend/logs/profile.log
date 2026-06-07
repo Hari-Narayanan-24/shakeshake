@@ -1,0 +1,10 @@
+
+--- 2026-06-07 01:32:15 starting profile ---
+[2026-06-07T01:32:17] INFO database initialised at D:\shakeshake\shakeshake-mobile-react-native\shakeshake-backend\profile\shakeshake.db
+INFO:     Started server process [22340]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:23102 (Press CTRL+C to quit)
+[2026-06-07T01:32:19] INFO ➡️  GET /profile/health
+[2026-06-07T01:32:19] INFO 🟢 GET /profile/health → 200 (0ms)
+INFO:     127.0.0.1:62498 - "GET /profile/health HTTP/1.1" 200 OK

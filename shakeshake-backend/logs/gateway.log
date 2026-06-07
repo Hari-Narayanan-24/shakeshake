@@ -1,0 +1,28 @@
+
+--- 2026-06-07 02:26:20 starting gateway ---
+INFO:     Started server process [4028]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:23010 (Press CTRL+C to quit)
+[2026-06-07T02:26:21] INFO GET /gateway/health -> 200 (2ms)
+INFO:     127.0.0.1:61992 - "GET /gateway/health HTTP/1.1" 200 OK
+
+--- 2026-06-07 02:33:00 starting gateway ---
+INFO:     Started server process [33756]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:23010 (Press CTRL+C to quit)
+[2026-06-07T02:33:02] INFO GET /gateway/health -> 200 (2ms)
+INFO:     127.0.0.1:60238 - "GET /gateway/health HTTP/1.1" 200 OK
+INFO:     Shutting down
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
+INFO:     Finished server process [33756]
+
+--- 2026-06-07 02:50:03 starting gateway ---
+INFO:     Started server process [35232]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:23010 (Press CTRL+C to quit)
+[2026-06-07T02:50:07] INFO GET /gateway/health -> 200 (3ms)
+INFO:     127.0.0.1:64881 - "GET /gateway/health HTTP/1.1" 200 OK

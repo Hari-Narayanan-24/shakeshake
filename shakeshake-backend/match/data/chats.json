@@ -1,0 +1,18 @@
+{
+  "50f02fb8-a944-4231-ae47-b26e0968d9a7": [
+    {
+      "id": "ad25a956-8bd2-408d-8c20-992550e13dc3",
+      "matchId": "50f02fb8-a944-4231-ae47-b26e0968d9a7",
+      "senderId": "8714ecb2-d36c-4805-b9ea-9a3f2166ec2f",
+      "text": "Hey! Nice to match with you!",
+      "timestamp": "2026-06-07T00:17:33.842311+00:00"
+    },
+    {
+      "id": "7f9bbe21-5860-472b-a5fa-51532276a0ff",
+      "matchId": "50f02fb8-a944-4231-ae47-b26e0968d9a7",
+      "senderId": "a7bb23d6-1517-47c5-86fe-26cf07a4d981",
+      "text": "Hey back! Coffee sometime?",
+      "timestamp": "2026-06-07T00:17:34.294224+00:00"
+    }
+  ]
+}

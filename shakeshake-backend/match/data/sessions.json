@@ -1,0 +1,440 @@
+{
+  "48ba0f0c-f5dc-4ce9-9ff7-54d2f5a9fc8b": {
+    "sessionProfile": {
+      "mood": "Chill",
+      "energy": null,
+      "goal": "Long-term romance",
+      "companyType": null,
+      "companyFeel": null,
+      "activities": [],
+      "vibeType": null,
+      "relaxation": null,
+      "weekend": null,
+      "moment": null,
+      "topicType": null,
+      "calmToEnergetic": null,
+      "shareToReserve": null,
+      "avoid": [],
+      "ownWords": null
+    },
+    "availability": [
+      {
+        "date": "2026-06-01",
+        "dayLabel": "Mon",
+        "dateNumber": 1,
+        "isAvailable": false,
+        "timeSlots": []
+      },
+      {
+        "date": "2026-06-02",
+        "dayLabel": "Tue",
+        "dateNumber": 2,
+        "isAvailable": false,
+        "timeSlots": []
+      },
+      {
+        "date": "2026-06-03",
+        "dayLabel": "Wed",
+        "dateNumber": 3,
+        "isAvailable": false,
+        "timeSlots": []
+      },
+      {
+        "date": "2026-06-04",
+        "dayLabel": "Thu",
+        "dateNumber": 4,
+        "isAvailable": false,
+        "timeSlots": []
+      },
+      {
+        "date": "2026-06-05",
+        "dayLabel": "Fri",
+        "dateNumber": 5,
+        "isAvailable": false,
+        "timeSlots": []
+      },
+      {
+        "date": "2026-06-06",
+        "dayLabel": "Sat",
+        "dateNumber": 6,
+        "isAvailable": false,
+        "timeSlots": []
+      },
+      {
+        "date": "2026-06-07",
+        "dayLabel": "Sun",
+        "dateNumber": 7,
+        "isAvailable": false,
+        "timeSlots": []
+      }
+    ],
+    "updatedAt": "2026-06-07T07:38:35.773466+00:00"
+  },
+  "ff3e4145-84e7-4b4c-8d5f-ce67a3599a5b": {
+    "sessionProfile": {
+      "mood": "Chill",
+      "energy": "Fun",
+      "goal": null,
+      "companyType": "Mutual",
+      "companyFeel": null,
+      "activities": [],
+      "vibeType": null,
+      "relaxation": null,
+      "weekend": null,
+      "moment": null,
+      "topicType": null,
+      "calmToEnergetic": null,
+      "shareToReserve": 0.47,
+      "avoid": [],
+      "ownWords": "good "
+    },
+    "availability": [
+      {
+        "date": "2026-06-01",
+        "dayLabel": "Mon",
+        "dateNumber": 1,
+        "isAvailable": false,
+        "timeSlots": []
+      },
+      {
+        "date": "2026-06-02",
+        "dayLabel": "Tue",
+        "dateNumber": 2,
+        "isAvailable": false,
+        "timeSlots": []
+      },
+      {
+        "date": "2026-06-03",
+        "dayLabel": "Wed",
+        "dateNumber": 3,
+        "isAvailable": false,
+        "timeSlots": []
+      },
+      {
+        "date": "2026-06-04",
+        "dayLabel": "Thu",
+        "dateNumber": 4,
+        "isAvailable": false,
+        "timeSlots": []
+      },
+      {
+        "date": "2026-06-05",
+        "dayLabel": "Fri",
+        "dateNumber": 5,
+        "isAvailable": false,
+        "timeSlots": []
+      },
+      {
+        "date": "2026-06-06",
+        "dayLabel": "Sat",
+        "dateNumber": 6,
+        "isAvailable": false,
+        "timeSlots": []
+      },
+      {
+        "date": "2026-06-07",
+        "dayLabel": "Sun",
+        "dateNumber": 7,
+        "isAvailable": false,
+        "timeSlots": []
+      }
+    ],
+    "updatedAt": "2026-06-07T09:39:53.089440+00:00"
+  },
+  "1aab8ca0-a052-4922-a413-9f8e0661ebd4": {
+    "sessionProfile": {
+      "mood": "Tired",
+      "energy": null,
+      "goal": "Chat friend",
+      "companyType": null,
+      "companyFeel": null,
+      "activities": [],
+      "vibeType": null,
+      "relaxation": null,
+      "weekend": null,
+      "moment": null,
+      "topicType": null,
+      "calmToEnergetic": null,
+      "shareToReserve": 0.99,
+      "avoid": [],
+      "ownWords": null
+    },
+    "availability": [
+      {
+        "date": "2026-06-01",
+        "dayLabel": "Mon",
+        "dateNumber": 1,
+        "isAvailable": false,
+        "timeSlots": []
+      },
+      {
+        "date": "2026-06-02",
+        "dayLabel": "Tue",
+        "dateNumber": 2,
+        "isAvailable": false,
+        "timeSlots": []
+      },
+      {
+        "date": "2026-06-03",
+        "dayLabel": "Wed",
+        "dateNumber": 3,
+        "isAvailable": false,
+        "timeSlots": []
+      },
+      {
+        "date": "2026-06-04",
+        "dayLabel": "Thu",
+        "dateNumber": 4,
+        "isAvailable": false,
+        "timeSlots": []
+      },
+      {
+        "date": "2026-06-05",
+        "dayLabel": "Fri",
+        "dateNumber": 5,
+        "isAvailable": false,
+        "timeSlots": []
+      },
+      {
+        "date": "2026-06-06",
+        "dayLabel": "Sat",
+        "dateNumber": 6,
+        "isAvailable": false,
+        "timeSlots": []
+      },
+      {
+        "date": "2026-06-07",
+        "dayLabel": "Sun",
+        "dateNumber": 7,
+        "isAvailable": false,
+        "timeSlots": []
+      }
+    ],
+    "updatedAt": "2026-06-07T09:40:57.399671+00:00"
+  },
+  "ec0798a9-4b21-4b99-8e55-edfb084c1725": {
+    "sessionProfile": {
+      "mood": "Tired",
+      "energy": null,
+      "goal": null,
+      "companyType": "Listener",
+      "companyFeel": null,
+      "activities": [],
+      "vibeType": null,
+      "relaxation": null,
+      "weekend": null,
+      "moment": null,
+      "topicType": null,
+      "calmToEnergetic": null,
+      "shareToReserve": 0.55,
+      "avoid": [],
+      "ownWords": null
+    },
+    "availability": [
+      {
+        "date": "2026-06-01",
+        "dayLabel": "Mon",
+        "dateNumber": 1,
+        "isAvailable": false,
+        "timeSlots": []
+      },
+      {
+        "date": "2026-06-02",
+        "dayLabel": "Tue",
+        "dateNumber": 2,
+        "isAvailable": false,
+        "timeSlots": []
+      },
+      {
+        "date": "2026-06-03",
+        "dayLabel": "Wed",
+        "dateNumber": 3,
+        "isAvailable": false,
+        "timeSlots": []
+      },
+      {
+        "date": "2026-06-04",
+        "dayLabel": "Thu",
+        "dateNumber": 4,
+        "isAvailable": false,
+        "timeSlots": []
+      },
+      {
+        "date": "2026-06-05",
+        "dayLabel": "Fri",
+        "dateNumber": 5,
+        "isAvailable": false,
+        "timeSlots": []
+      },
+      {
+        "date": "2026-06-06",
+        "dayLabel": "Sat",
+        "dateNumber": 6,
+        "isAvailable": false,
+        "timeSlots": []
+      },
+      {
+        "date": "2026-06-07",
+        "dayLabel": "Sun",
+        "dateNumber": 7,
+        "isAvailable": false,
+        "timeSlots": []
+      }
+    ],
+    "updatedAt": "2026-06-07T10:03:21.462694+00:00"
+  },
+  "1d87f561-241f-42e3-add7-898262ea4ad3": {
+    "sessionProfile": {
+      "mood": "Chill",
+      "energy": null,
+      "goal": null,
+      "companyType": "Listener",
+      "companyFeel": null,
+      "activities": [],
+      "vibeType": null,
+      "relaxation": null,
+      "weekend": null,
+      "moment": null,
+      "topicType": null,
+      "calmToEnergetic": null,
+      "shareToReserve": null,
+      "avoid": [],
+      "ownWords": null
+    },
+    "availability": [
+      {
+        "date": "2026-06-01",
+        "dayLabel": "Mon",
+        "dateNumber": 1,
+        "isAvailable": false,
+        "timeSlots": []
+      },
+      {
+        "date": "2026-06-02",
+        "dayLabel": "Tue",
+        "dateNumber": 2,
+        "isAvailable": false,
+        "timeSlots": []
+      },
+      {
+        "date": "2026-06-03",
+        "dayLabel": "Wed",
+        "dateNumber": 3,
+        "isAvailable": false,
+        "timeSlots": []
+      },
+      {
+        "date": "2026-06-04",
+        "dayLabel": "Thu",
+        "dateNumber": 4,
+        "isAvailable": false,
+        "timeSlots": []
+      },
+      {
+        "date": "2026-06-05",
+        "dayLabel": "Fri",
+        "dateNumber": 5,
+        "isAvailable": false,
+        "timeSlots": []
+      },
+      {
+        "date": "2026-06-06",
+        "dayLabel": "Sat",
+        "dateNumber": 6,
+        "isAvailable": false,
+        "timeSlots": []
+      },
+      {
+        "date": "2026-06-07",
+        "dayLabel": "Sun",
+        "dateNumber": 7,
+        "isAvailable": true,
+        "timeSlots": [
+          {
+            "startHour": 9,
+            "startMinute": 0,
+            "durationHours": 3.0
+          }
+        ]
+      }
+    ],
+    "updatedAt": "2026-06-07T10:33:23.625868+00:00"
+  },
+  "f45c2d81-41f6-482d-b561-4c0ae97a1755": {
+    "sessionProfile": {
+      "mood": "Chill",
+      "energy": null,
+      "goal": null,
+      "companyType": "Listener",
+      "companyFeel": null,
+      "activities": [],
+      "vibeType": null,
+      "relaxation": null,
+      "weekend": null,
+      "moment": null,
+      "topicType": null,
+      "calmToEnergetic": null,
+      "shareToReserve": null,
+      "avoid": [],
+      "ownWords": null
+    },
+    "availability": [
+      {
+        "date": "2026-06-01",
+        "dayLabel": "Mon",
+        "dateNumber": 1,
+        "isAvailable": false,
+        "timeSlots": []
+      },
+      {
+        "date": "2026-06-02",
+        "dayLabel": "Tue",
+        "dateNumber": 2,
+        "isAvailable": false,
+        "timeSlots": []
+      },
+      {
+        "date": "2026-06-03",
+        "dayLabel": "Wed",
+        "dateNumber": 3,
+        "isAvailable": false,
+        "timeSlots": []
+      },
+      {
+        "date": "2026-06-04",
+        "dayLabel": "Thu",
+        "dateNumber": 4,
+        "isAvailable": false,
+        "timeSlots": []
+      },
+      {
+        "date": "2026-06-05",
+        "dayLabel": "Fri",
+        "dateNumber": 5,
+        "isAvailable": false,
+        "timeSlots": []
+      },
+      {
+        "date": "2026-06-06",
+        "dayLabel": "Sat",
+        "dateNumber": 6,
+        "isAvailable": false,
+        "timeSlots": []
+      },
+      {
+        "date": "2026-06-07",
+        "dayLabel": "Sun",
+        "dateNumber": 7,
+        "isAvailable": true,
+        "timeSlots": [
+          {
+            "startHour": 9,
+            "startMinute": 0,
+            "durationHours": 3.0
+          }
+        ]
+      }
+    ],
+    "updatedAt": "2026-06-07T10:33:23.609045+00:00"
+  }
+}

@@ -1,0 +1,30 @@
+[2026-06-07T02:26:04] [*] Windows Firewall changes need Administrator access.
+[2026-06-07T02:26:04] [*] Opening an elevated PowerShell window...
+[2026-06-07T02:26:08] 
+[2026-06-07T02:26:08] ============================================================
+[2026-06-07T02:26:08] ShakeShake exposed backend started
+[2026-06-07T02:26:08] ============================================================
+[2026-06-07T02:26:08] [*] Opening temporary Windows Firewall rules...
+[2026-06-07T02:26:11] [+] Opened port 23000 (ShakeShake Dev Backend 23000)
+[2026-06-07T02:26:11] [+] Opened port 23001 (ShakeShake Dev Backend 23001)
+[2026-06-07T02:26:12] [+] Opened port 23002 (ShakeShake Dev Backend 23002)
+[2026-06-07T02:26:13] [+] Opened port 23003 (ShakeShake Dev Backend 23003)
+[2026-06-07T02:26:13] [+] Opened port 23010 (ShakeShake Dev Backend 23010)
+[2026-06-07T02:26:14] 
+[2026-06-07T02:26:14] [+] Backend ports are open to devices on your local subnet:
+[2026-06-07T02:26:14]     Wi-Fi: 192.168.1.139
+[2026-06-07T02:26:14]     Ethernet 2: 192.168.56.1
+[2026-06-07T02:26:14]     VMware Network Adapter VMnet1: 192.168.200.1
+[2026-06-07T02:26:14]     VMware Network Adapter VMnet2: 192.168.222.1
+[2026-06-07T02:26:14]     VMware Network Adapter VMnet8: 192.168.146.1
+[2026-06-07T02:26:14] 
+[2026-06-07T02:26:14] [i] Phone app should use:
+[2026-06-07T02:26:14]     http://192.168.1.139:23010/gateway/health
+[2026-06-07T02:26:14]     http://192.168.1.139:23002/profile/health
+[2026-06-07T02:26:14]     http://192.168.1.139:23003/match/health
+[2026-06-07T02:26:14] 
+[2026-06-07T02:26:14] [*] Starting ShakeShake backend. Press Ctrl+C to stop and close exposed ports.
+[2026-06-07T02:26:14] [i] Log file: D:\shakeshake\shakeshake-mobile-react-native\shakeshake-backend\logs\exposed_ports.log
+[2026-06-07T02:27:13] 
+[2026-06-07T02:27:13] [*] Removing temporary Windows Firewall rules...
+[2026-06-07T02:27:14] [+] Exposed backend ports closed.

@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "ShakeShake",
+    "slug": "shakeshake-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "scheme": "shakeshake",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "infoPlist": {
+        "NSCalendarsUsageDescription": "ShakeShake wants to show your calendar events so you can find time to meet new people.",
+        "NSCalendarsFullAccessUsageDescription": "ShakeShake needs full calendar access to display your schedule and suggest meet-up times."
+      }
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#FF5376"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      [
+        "expo-calendar",
+        {
+          "calendarPermission": "ShakeShake wants to show your calendar events so you can find time to meet new people."
+        }
+      ],
+      "@react-native-community/datetimepicker"
+    ]
+  }
+}

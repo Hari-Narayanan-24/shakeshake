@@ -1,0 +1,40 @@
+{
+  "9d1e2844-f699-4403-8617-a14c5fe0efa2": {
+    "matchId": "9d1e2844-f699-4403-8617-a14c5fe0efa2",
+    "userA": "a7bb23d6-1517-47c5-86fe-26cf07a4d981",
+    "userAName": "Match Partner",
+    "userB": "8714ecb2-d36c-4805-b9ea-9a3f2166ec2f",
+    "userBName": "E2E Updated",
+    "matchPercentage": 65.6,
+    "catchPhrase": "Vibes aligned ✨",
+    "overlappingSlots": [
+      {
+        "date": "2026-06-08",
+        "startHour": 14,
+        "startMinute": 0,
+        "durationHours": 2.0
+      }
+    ],
+    "status": "pending",
+    "createdAt": "2026-06-07T00:17:14.203477+00:00"
+  },
+  "50f02fb8-a944-4231-ae47-b26e0968d9a7": {
+    "matchId": "50f02fb8-a944-4231-ae47-b26e0968d9a7",
+    "userA": "8714ecb2-d36c-4805-b9ea-9a3f2166ec2f",
+    "userAName": "E2E Updated",
+    "userB": "a7bb23d6-1517-47c5-86fe-26cf07a4d981",
+    "userBName": "Match Partner",
+    "matchPercentage": 65.6,
+    "catchPhrase": "Your people just found you 🔥",
+    "overlappingSlots": [
+      {
+        "date": "2026-06-08",
+        "startHour": 14,
+        "startMinute": 0,
+        "durationHours": 2.0
+      }
+    ],
+    "status": "connected",
+    "createdAt": "2026-06-07T00:17:17.042669+00:00"
+  }
+}

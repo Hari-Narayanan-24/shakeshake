@@ -1,0 +1,9 @@
+
+--- 2026-06-07 01:32:15 starting onboarding ---
+INFO:     Started server process [33404]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:23101 (Press CTRL+C to quit)
+[2026-06-07T01:32:18] INFO ➡️  GET /onboarding/health
+[2026-06-07T01:32:18] INFO 🟢 GET /onboarding/health → 200 (4ms)
+INFO:     127.0.0.1:62495 - "GET /onboarding/health HTTP/1.1" 200 OK
